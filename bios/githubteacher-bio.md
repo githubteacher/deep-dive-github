@@ -5,4 +5,4 @@
 - I live in North Carolina
 - favorite color is blue
 - favorite food is sushi!
-- has two dogs
+- has two dogs one is a Boston Terrier
